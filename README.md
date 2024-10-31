@@ -72,7 +72,6 @@ Este projeto demonstra habilidades em:
 - **Manipulação de dados com DAX** e **Power Query**.
 - **Organização e documentação de projetos** para facilitar a colaboração e a visualização de recrutadores.
 
-Boa sorte! 💪🚀
 
 ---
 
